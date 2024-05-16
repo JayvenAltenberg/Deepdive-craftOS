@@ -1,4 +1,4 @@
-wget run
+
 response = http.get("https://raw.githubusercontent.com/JayvenAltenberg/Deepdive-craftOS/main/chest_monitor.lua")
 
 if response then
